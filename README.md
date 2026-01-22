@@ -114,7 +114,7 @@ Otto von Guericke University Magdeburg, Germany
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/muhammad-jabbar-373257165/  
 💻 **GitHub:** https://github.com/Muhammadjabbar123  
-🌐 **Portfolio:** *(GitHub Pages / Website link)*  
+🌐 **Portfolio:** https://muhammadjabbar123.github.io/JabbarPortfolio/
 
 ---
 
